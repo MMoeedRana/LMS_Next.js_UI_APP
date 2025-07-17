@@ -24,7 +24,7 @@ const MobileNav = ({ closeNav, showNav }: Props) => {
     },
     {
       id: 3,
-      url: '/features',
+      url: '/services',
       label: "Services",
     },
     {

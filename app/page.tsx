@@ -24,7 +24,7 @@ const Page = () => {
   return (
     <div>
       {/* Pass openNav function as a prop to Navbar */}
-      <Navbar openNav={openNav} />
+      {/* <Navbar openNav={openNav} /> */}
       <Navbar openNav={handleNavShow} />
       <MobileNav showNav={showNav} closeNav={handleNavHide} />
       {/* Your other content */}

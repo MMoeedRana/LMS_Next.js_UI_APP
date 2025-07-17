@@ -1,6 +1,6 @@
 import React from 'react'
-import { FaBook, FaCog, FaDatabase, FaDesktop, FaDigitalTachograph, FaHeadset, FaHtml5, FaInfinity, FaLanguage, FaLaptop, FaLayerGroup, FaMobileAlt, FaPython, FaRobot, FaShieldAlt } from 'react-icons/fa'
-import { FaCediSign, FaPhotoFilm } from 'react-icons/fa6';
+import { FaBook, FaDatabase, FaDigitalTachograph, FaHtml5, FaLanguage, FaMobileAlt, FaPython, FaRobot, } from 'react-icons/fa'
+import { FaPhotoFilm } from 'react-icons/fa6';
 
 const Feature = () => {
 

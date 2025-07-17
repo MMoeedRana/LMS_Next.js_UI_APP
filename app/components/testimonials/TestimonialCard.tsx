@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import React from 'react'
 import { FaQuoteLeft, FaStar } from 'react-icons/fa';
-import { StringDecoder } from 'string_decoder';
 
 type Props = {
   name: string;

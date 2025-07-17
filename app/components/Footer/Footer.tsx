@@ -1,7 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
 import { FaClock, FaEnvelope, FaFacebook, FaGithub, FaGoogle, FaMapMarkedAlt, FaPhoneAlt, FaTwitter } from 'react-icons/fa'
-import { FaX } from 'react-icons/fa6'
 
 const Footer = () => {
   return (
