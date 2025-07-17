@@ -6,7 +6,7 @@ import ContactPage from '../components/Contact/Contact';
 import Offer from '../components/Contact/Offer';
 import MobileNav from '../components/NavBar/MobileNav';
 
-export default function featuresPage() {
+export default function FeaturesPage() {
   const [showNav, setShowNav] = useState(false);
 
   // Define the openNav function

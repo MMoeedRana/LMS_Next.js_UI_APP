@@ -1,4 +1,3 @@
-//app/plans/page.tsx 
 "use client";
 
 import React, { useState } from 'react'
@@ -6,7 +5,7 @@ import Navbar from '../components/NavBar/Navbar'
 import Price from '../components/Price/Price';
 import MobileNav from '../components/NavBar/MobileNav';
 
-export default function pricePage() {
+export default function PricePage() {
   const [showNav, setShowNav] = useState(false);
 
   // Define the openNav function

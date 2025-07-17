@@ -4,7 +4,7 @@ export default function ContactPage() {
   const [fullname, setFullname] = useState("");
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: any) => {
     e.preventDefault();
   };
   console.log("Full name:", fullname);

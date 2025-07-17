@@ -1,4 +1,3 @@
-//app/services/page.tsx
 "use client";
 
 import React, { useState } from 'react'
@@ -6,7 +5,7 @@ import Feature from '../components/Feature/Feature'
 import Navbar from '../components/NavBar/Navbar'
 import MobileNav from '../components/NavBar/MobileNav';
 
-export default function featuresPage() {
+export default function FeaturesPage() {
   const [showNav, setShowNav] = useState(false);
 
   // Define the openNav function

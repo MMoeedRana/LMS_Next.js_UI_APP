@@ -1,4 +1,3 @@
-//app/testimonials/page.tsx
 "use client";
 
 import React, { useState } from 'react'
@@ -6,7 +5,7 @@ import Navbar from '../components/NavBar/Navbar'
 import Review from '../components/testimonials/Testimonials';
 import MobileNav from '../components/NavBar/MobileNav';
 
-export default function testimonialsPage() {
+export default function TestimonialsPage() {
   const [showNav, setShowNav] = useState(false);
 
   // Define the openNav function
